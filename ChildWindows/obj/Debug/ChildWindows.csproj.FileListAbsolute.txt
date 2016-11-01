@@ -1,0 +1,12 @@
+C:\FVV\newfolder\ChildWindows\bin\Debug\ChildWindows.exe.config
+C:\FVV\newfolder\ChildWindows\bin\Debug\ChildWindows.exe
+C:\FVV\newfolder\ChildWindows\bin\Debug\ChildWindows.pdb
+C:\FVV\newfolder\ChildWindows\obj\Debug\ChildWindows.csprojResolveAssemblyReference.cache
+C:\FVV\newfolder\ChildWindows\obj\Debug\ChildWindows.ChildForm.resources
+C:\FVV\newfolder\ChildWindows\obj\Debug\ChildWindows.DataSourceForm.resources
+C:\FVV\newfolder\ChildWindows\obj\Debug\ChildWindows.DragDropWindow.resources
+C:\FVV\newfolder\ChildWindows\obj\Debug\ChildWindows.ParentForm.resources
+C:\FVV\newfolder\ChildWindows\obj\Debug\ChildWindows.Properties.Resources.resources
+C:\FVV\newfolder\ChildWindows\obj\Debug\ChildWindows.csproj.GenerateResource.Cache
+C:\FVV\newfolder\ChildWindows\obj\Debug\ChildWindows.exe
+C:\FVV\newfolder\ChildWindows\obj\Debug\ChildWindows.pdb
